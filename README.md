@@ -1,13 +1,12 @@
 
-
+```
  ____            _                 ____      _    ____
 |  _ \ _____   _(_) _____      __ |  _ \    / \  / ___|
 | |_) / _ \ \ / / |/ _ \ \ /\ / / | |_) |  / _ \| |  _
 |  _ <  __/\ V /| |  __/\ V  V /  |  _ <  / ___ \ |_| |
 |_| \_\___| \_/ |_|\___| \_/\_/   |_| \_\/_/   \_\____|
 
-
-
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
