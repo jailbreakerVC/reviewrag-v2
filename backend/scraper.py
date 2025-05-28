@@ -6,6 +6,12 @@ from crawl4ai import AsyncWebCrawler
 from crawl4ai.async_configs import BrowserConfig, CrawlerRunConfig
 
 
+
+
+
+
+
+
 async def main():
     browser_config = BrowserConfig()
     run_config = CrawlerRunConfig(
