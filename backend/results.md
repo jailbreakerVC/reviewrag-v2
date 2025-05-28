@@ -66,21 +66,7 @@ Gaming performance was good, as I managed to run Call of Duty: Mobile at Very Hi
 The vapour chamber cooling system sure does its job of maintaining the phone's performance under stress
 The phone warms up while playing games and gets hot when using the camera app outdoors; however, the camera app does not shut down nor show any warnings about limiting use. Indeed, the vapour cooling system was doing its job. However, the phone always struggled with processing images (it takes a second or two after capture), which is something I also noticed on the Realme P3 Pro (has the same chip). I also noticed some sluggishness when using the camera app, especially when switching between camera modes or switching cameras.
 As far as benchmarks go, the Nothing Phone 3a performs as expected, as can be seen from the table below.
-**Benchmarks** | **Nothing Phone 3a** | **Realme P3 Pro** | **Poco F6** | **OnePlus Nord CE 4**
----|---|---|---|---
-**Chipset** | **Snapdragon 7s Gen 3 (4nm)** | Snapdragon 7s Gen 3 (4nm) | Snapdragon 8s Gen 3 (4nm) | Snapdragon 7 Gen 3 (4nm)
-**Display resolution** | **FHD+** | 1.5K | 1.5K | FHD+
-**AnTuTu v10** | **8,04,179** | 8,42,381 | 14,57,491 | 8,14,981
-**PCMark Work 3.0** | **13,554** | 13,816 | 15,743 | 12,124
-**Geekbench 6 Single** | **1,158** | 1,185 | 1,835 | 1,154
-**Geekbench 6 Multi** | **3,255** | 3,209 | 4,693 | 3,000
-**GFXB T-rex** | **60** | 60 | 120 | 60
-**GFXB Manhattan 3.1** | **55** | 39 | 112 | 60
-**GFXB Car Chase** | **28** | 21 | 71 | 39
-**3DM Slingshot Extreme OpenGL** | **5,485** | 5,405 | 5,481 | Maxed Out
-**3DM Slingshot** | **6,954** | 6,871 | 4,655 | Maxed Out
-**3DM Wild Life** | **3,988** | 4,101 | Maxed Out | 5,423
-**3DM Wild Life Unlimited** | **4,175** | 4,183 | 11,734 | 5,553
+
 ## Nothing Phone 3a Cameras: Well above average
   * Primary camera - 50-megapixel, OIS, f/1.5 aperture, AF
   * Ultrawide camera - 8-megapixel, f/2.2 aperture, FF
@@ -135,12 +121,8 @@ Indeed, there are better performance-oriented alternatives like the (), and spec
   * Does not support HDR10+ video streaming
 
 
-## https://www.gadgets360.com/mobiles/reviews/oneplus-nord-ce-4-lite-review-5954674
-
 # OnePlus Nord CE 4 Lite Review: New Display, Old Chipset
-## How does the OnePlus Nord CE 4 Lite fare in the highly competitive sub-Rs. 20,000 price segment?
-Written by , Edited by | Updated: 24 June 2024 19:16 IST
-Snapchat Comment
+## How does the OnePlus Nord CE 4 Lite fare in the highly competitive sub-Rs. 20,000 price segment? | Updated: 24 June 2024 19:16 IST
 OnePlus Nord CE 4 Lite sports a refreshed design with a new camera island
 Highlights
   * OnePlus Nord CE 4 Lite runs on a Snapdragon 695 chipset

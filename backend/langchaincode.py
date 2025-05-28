@@ -150,12 +150,18 @@ def reset_database():
         print(f"Removed {METADATA_FILE}")
 
 if __name__ == "__main__":
+    # Uncomment to reset database if needed
+    # reset_database()
+
+    # Create RAG chain (will use persistent storage)
     rag_chain = create_rag_chain()
-    question = input("Enter the question?")
+
+
+    question = input("Enter question?:\n")
+    # Run query
     response = rag_chain.invoke({
-    "question" : f"{question}"
+        "question": "What is the camera specification for Nord ce4 lite"
     })
 
-    print(f'Context: {response["context"]}\n\n')
     print(f'Answer: {response["answer"]}\n')
     print(f'Sources used: {len(response["context"])} documents')
