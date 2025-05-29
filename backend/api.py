@@ -22,7 +22,7 @@ load_dotenv()
 
 # Configuration
 CHROMA_DB_PATH = "./chroma_db"
-SOURCE_FILE = "results.md"
+SOURCE_FILE = "clean_reviews.md"
 COLLECTION_NAME = "reviews"
 METADATA_FILE = ".metadata.json"
 
@@ -149,7 +149,7 @@ def create_rag_chain():
     def retrieve(state: State):
         retrieved_docs = vector_store.similarity_search(
             state["question"],
-            k=3  # Number of documents to retrieve
+            k=4  # Number of documents to retrieve
         )
         return {"context": retrieved_docs}
 
