@@ -6,12 +6,6 @@ from crawl4ai import AsyncWebCrawler
 from crawl4ai.async_configs import BrowserConfig, CrawlerRunConfig
 
 
-
-
-
-
-
-
 async def main():
     browser_config = BrowserConfig()
     run_config = CrawlerRunConfig(
@@ -23,7 +17,7 @@ async def main():
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://www.gadgets360.com/mobiles/reviews/oneplus-nord-ce-4-lite-review-5954674",
+            url="https://www.gadgets360.com/mobiles/reviews/motorola-edge-50-fusion-review-6320432",
             config=run_config
         )
 
